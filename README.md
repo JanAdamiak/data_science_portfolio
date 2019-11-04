@@ -6,4 +6,4 @@
 
 1. Learn Geopandas and geopy libraries. 
 2. Learn how to do dashboards in Tableau using geolocation data. 
-3. Learn how to use LSTM modelling on data with multiple trends seasonalities
+3. Learn how to use LSTM model on a time-series dataset with multiple trends and/or seasonalities
