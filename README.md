@@ -10,7 +10,7 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 ## Contents
 
 * ### Finished large data science projects:
-	* [Exploratory data analysis of prices of tickets for Spanish railways](https://github.com/JanAdamiak/data_science_portfolio/tree/master/Spanish_Railways): Exploratory data analysis of the Spanish Railways dataset, followed by visualisations made in Python. Finished with price predictions using machine learning (Linear regression, SVR, Random Forest).
+	* [Exploratory data analysis of prices of tickets for Spanish railways](https://github.com/JanAdamiak/data_science_portfolio/blob/master/Spanish_Railways/Train_tickets_EDA.ipynb): Exploratory data analysis of the Spanish Railways dataset, followed by visualisations made in Python. Finished with price predictions using machine learning (Linear regression, SVR, Random Forest).
 	* [Crime rate in Boston between years 2015-2019](https://github.com/JanAdamiak/Crimes_in_Boston/blob/master/Fast_cleanup.ipynb): Analysis of the Boston crime rate, the outcome of the project was to learn how to work with geolocation data! Data was cleaned in Python and visualisations were made in Tableau. Future plans: learning how to use LSTM models for predicting unstable time-series data, find a decent open weather dataset to expand the project!
 		
 	
