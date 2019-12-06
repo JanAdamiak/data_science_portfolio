@@ -12,14 +12,20 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 * ### Finished large data science projects:
 	* [Exploratory data analysis of prices of tickets for Spanish railways](https://github.com/JanAdamiak/data_science_portfolio/blob/master/Spanish_Railways/Train_tickets_EDA.ipynb): Exploratory data analysis of the Spanish Railways dataset, followed by visualisations made using Seaborn library. Finished with a regression model using XGboost library.
 	* [Crime rate in Boston between years 2015-2019](https://github.com/JanAdamiak/Crimes_in_Boston/blob/master/Fast_cleanup.ipynb): Analysis of the Boston crime rate, the outcome of the project was to learn how to work with geolocation data! Project is split into 3 sections. Data cleaning in Python, visualisations in Tableau and plotting a forecast using Prophet.
-		
+
+
+* ### Micro Projects(projects with a goal of learning one simple thing): 
+	* Exploring time series with Python using Statsmodels [Part 1](https://github.com/JanAdamiak/data_science_portfolio/blob/master/MiniProjects/TimeSeriesExercises1.ipynb) [Part 2](https://github.com/JanAdamiak/data_science_portfolio/blob/master/MiniProjects/TimeSeriesExercises2.ipynb)
+
 	
 * ### Projects under work:
 	* [Fraud detection in financial transactions](https://github.com/JanAdamiak/data_science_portfolio/tree/master/Kaggle): Project mostly finished. The code has to be commented, write-ups for each section and bibliography for the papers used. 
 	* [NLP for Twitter dataset with #Brexit](https://github.com/JanAdamiak/data_science_portfolio/tree/master/Twitter): Currently obtaining the data using Twitter API.
 
 
-* ### Micro Projects(projects with a goal of learning one simple thing): 
+
+
+
 
 _Tools: Pandas, Seaborn, Folium, Matplotlib, scikit-learn and Tableau_
 
