@@ -5,8 +5,6 @@ Repository containing portfolio of my data science projects completed for self-l
 #### My Tableau profile [here](https://public.tableau.com/profile/jan.adamiak#!/).
 #### My Kaggle profile [here](https://www.kaggle.com/janadamiak).
 
-_Note: Data used in the projects (accessed under data directory) is for demonstration purposes only._
-
 ## Contents
 
 * ### Finished large data science projects:
