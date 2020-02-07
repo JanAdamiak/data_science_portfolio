@@ -17,8 +17,7 @@ Repository containing portfolio of my data science projects completed for self-l
 
 	
 * ### Projects under work:
-	* [Fraud detection in financial transactions](https://github.com/JanAdamiak/data_science_portfolio/tree/master/Kaggle): Project mostly finished. The code has to be commented, write-ups for each section and bibliography for the papers used. 
-	* [NLP for Twitter dataset with #Brexit](https://github.com/JanAdamiak/data_science_portfolio/tree/master/Twitter): Currently obtaining the data using Twitter API.
+	* Currently learning back-end development.
 
 
 
