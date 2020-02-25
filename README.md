@@ -17,7 +17,7 @@ Repository containing portfolio of my data science projects completed for self-l
 
 	
 * ### Projects under work:
-	* Currently learning back-end development.
+	* Currently learning full-stack web development.
 
 
 
